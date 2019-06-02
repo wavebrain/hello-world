@@ -1,0 +1,6 @@
+git user.name wav_xxx
+git user.email isl_xxx
+git add amri.txt
+git status
+git commit -m "first commit" amri.txt
+git push -u origin master
